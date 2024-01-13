@@ -1,0 +1,149 @@
+﻿  d3des.c
+  WinScanX.c
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(1): warning C4005: 'CreateDirectory': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(73): note: see previous definition of 'CreateDirectory'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(2): warning C4005: 'FormatMessage': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(2415): note: see previous definition of 'FormatMessage'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(3): warning C4005: 'CopyFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(5336): note: see previous definition of 'CopyFile'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(4): warning C4005: 'DeleteFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(151): note: see previous definition of 'DeleteFile'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(5): warning C4005: 'LoadLibrary': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\libloaderapi.h(670): note: see previous definition of 'LoadLibrary'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(6): warning C4005: 'DsEnumerateDomainTrusts': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\dsgetdc.h(459): note: see previous definition of 'DsEnumerateDomainTrusts'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(7): warning C4005: 'ldap_init': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(621): note: see previous definition of 'ldap_init'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(8): warning C4005: 'ldap_search': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(1109): note: see previous definition of 'ldap_search'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(9): warning C4005: 'ldap_first_attribute': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2029): note: see previous definition of 'ldap_first_attribute'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(10): warning C4005: 'ldap_get_values': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2096): note: see previous definition of 'ldap_get_values'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(11): warning C4005: 'ldap_count_values': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2157): note: see previous definition of 'ldap_count_values'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(12): warning C4005: 'ldap_value_free': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2182): note: see previous definition of 'ldap_value_free'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(13): warning C4005: 'ldap_memfree': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2268): note: see previous definition of 'ldap_memfree'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(14): warning C4005: 'ldap_next_attribute': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winldap.h(2060): note: see previous definition of 'ldap_next_attribute'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(15): warning C4005: 'RegConnectRegistry': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(277): note: see previous definition of 'RegConnectRegistry'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(16): warning C4005: 'RegOpenKeyEx': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(712): note: see previous definition of 'RegOpenKeyEx'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(17): warning C4005: 'RegEnumKey': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(539): note: see previous definition of 'RegEnumKey'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(18): warning C4005: 'RegQueryValueEx': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(870): note: see previous definition of 'RegQueryValueEx'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(19): warning C4005: 'ConvertStringSidToSid': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sddl.h(303): note: see previous definition of 'ConvertStringSidToSid'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(20): warning C4005: 'LookupAccountSid': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(6756): note: see previous definition of 'LookupAccountSid'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(21): warning C4005: 'GetFileVersionInfoSize': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winver.h(129): note: see previous definition of 'GetFileVersionInfoSize'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(22): warning C4005: 'GetFileVersionInfo': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winver.h(153): note: see previous definition of 'GetFileVersionInfo'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(23): warning C4005: 'VerQueryValue': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winver.h(250): note: see previous definition of 'VerQueryValue'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(24): warning C4005: 'FindFirstFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(247): note: see previous definition of 'FindFirstFile'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(25): warning C4005: 'FindNextFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(336): note: see previous definition of 'FindNextFile'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(26): warning C4005: 'OpenSCManager': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsvc.h(1370): note: see previous definition of 'OpenSCManager'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(27): warning C4005: 'EnumServicesStatus': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsvc.h(1218): note: see previous definition of 'EnumServicesStatus'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(28): warning C4005: 'OpenService': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsvc.h(1394): note: see previous definition of 'OpenService'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(29): warning C4005: 'QueryServiceConfig': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsvc.h(1422): note: see previous definition of 'QueryServiceConfig'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(30): warning C4005: 'QueryServiceConfig2': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsvc.h(1466): note: see previous definition of 'QueryServiceConfig2'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(31): warning C4005: 'GetNamedSecurityInfo': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\aclapi.h(186): note: see previous definition of 'GetNamedSecurityInfo'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(32): warning C4005: 'RegEnumValue': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(607): note: see previous definition of 'RegEnumValue'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(33): warning C4005: 'ConvertSidToStringSid': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sddl.h(281): note: see previous definition of 'ConvertSidToStringSid'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(34): warning C4005: 'RegCreateKeyEx': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(359): note: see previous definition of 'RegCreateKeyEx'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(35): warning C4005: 'RegSaveKey': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winreg.h(953): note: see previous definition of 'RegSaveKey'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(36): warning C4005: 'MoveFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(5619): note: see previous definition of 'MoveFile'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.h(38): warning C4005: 'DS_DOMAIN_TRUSTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\dsgetdc.h(431): note: see previous definition of 'DS_DOMAIN_TRUSTS'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1540): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1548): warning C4267: 'function': conversion from 'size_t' to 'WORD', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1768): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1769): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1770): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1771): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1900): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(1941): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2158): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2163): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2164): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2541): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2709): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2836): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2841): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(2842): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3237): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3243): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3254): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3368): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3384): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3395): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3517): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3530): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3553): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3692): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3705): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(3728): warning C4133: 'function': incompatible types - from 'DWORD *' to 'PDWORD_PTR'
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(4276): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(4653): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(4721): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5058): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5293): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5311): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5334): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5357): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5380): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5403): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5426): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5448): warning C4267: '=': conversion from 'size_t' to 'INT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5472): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5839): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPWSTR'
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5839): note: consider using '%ls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5839): note: consider using '%lls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5839): note: consider using '%Ls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5839): note: consider using '%ws' in the format string
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5886): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 6 has type 'LPWSTR'
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5886): note: consider using '%ls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5886): note: consider using '%lls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5886): note: consider using '%Ls' in the format string
+  d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5886): note: consider using '%ws' in the format string
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(5986): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(6152): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(6755): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(6756): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7325): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7330): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7331): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7403): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7410): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7411): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7434): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7437): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(7438): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(8403): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(8404): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(8405): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(8406): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\winscanx 1.1\source\winscanx project\winscanx\winscanx.c(8448): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 72 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WinScanX.vcxproj -> D:\Reed\Custom Tools\WinScanX 1.1\Source\WinScanX Project\x64\Release\WinScanX.exe
